@@ -16,3 +16,9 @@ Now, I am software developer in ASP.Net EcoSystem with technologies like:
 - Azure EcoSystem
 
 , so 
+
+## Contact
+Email: ivanrodriguezmillan@outlook.com
+
+## Social
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2F_IvanRodguez&style=for-the-badge&logo=x&label=Twitter&labelColor=blue)
